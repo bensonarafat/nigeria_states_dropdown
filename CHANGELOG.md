@@ -1,3 +1,3 @@
-## 0.0.1
+## [0.0.1] - 17.9.2022
 
-* Nigeria State Drop down verison 0.0.1
+* Initial release.
